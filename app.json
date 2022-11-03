@@ -72,6 +72,16 @@
         "description": "Telegraph Image URL For Start Command",
         "value": "https://telegra.ph/file/e17f42bc195635b668d6d.jpg",
         "required": true
+      },      
+      "SUPPORT_CHAT": {
+        "description": "SUPPORT_CHAT",
+        "value": "https://t.me/loveofmusicsupport",
+        "required": true
+      },      
+      "UPDATES_CHANNEL": {
+        "description": "UPDATES_CHANNEL",
+        "value": "https://t.me/loveofmusicupdate",
+        "required": true
       }
     },
     "buildpacks": [
