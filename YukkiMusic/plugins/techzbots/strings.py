@@ -29,10 +29,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/loveofmusicsupport"
+                text="❤ Owner ❤", url="https://t.me/LoCaL_kInG_01"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/loveofmusicupdate"
+                text="💬 Support Group 💬", url="https://t.me/loveofmusicupdate"
             ),                       
         ],        
     ]
@@ -51,7 +51,7 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/loveofmusicupdate"
+                text="❤ owner ❤", url="https://t.me/LoCaL_kInG_01"
             ),
             InlineKeyboardButton(
                 text="💬 Support Group", url="https://t.me/loveofmusicsupport"
@@ -74,7 +74,7 @@ COMMANDS_BUTTON_USER = InlineKeyboardMarkup(
                 text="Play Commands", callback_data="play_cmd"
             ),            
             InlineKeyboardButton(
-                text="Extra Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13-2"
+                text="assistant", url="https://t.me/Loveofmusic_assistant"
             ),                                   
         ],
         [
@@ -102,12 +102,12 @@ COMMANDS_BUTTON_SUDO = InlineKeyboardMarkup(
                 text="Play Commands", callback_data="play_cmd"
             ),
             InlineKeyboardButton(
-                text="Sudo Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13"
+                text="Sudo Commands", url="https://telegra.ph/Loveofmusic-Commands-03-13"
             ),            
         ],
         [
             InlineKeyboardButton(
-                text="Extra Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13-2"
+                text="Assistant", url="https://t.me/Loveofmusic_assistant"
             ),                                   
         ],
         [
@@ -136,7 +136,7 @@ BACK_BUTTON = InlineKeyboardMarkup(
 SUDO_BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="Sudo Commands", url="https://telegra.ph/SiestaXMusic-Commands-03-13"
+                text="Sudo Commands", url="https://telegra.ph/loveofmusic-Commands-03-13"
             ),                        
         ],
         [
